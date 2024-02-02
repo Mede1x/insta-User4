@@ -6,8 +6,13 @@ instagram username checker ' 4 letters '
 # HOW To Use
 ```
 git clone https://github.com/Mede1x/insta-User4.git
+```
+```
 pip install requests
+```
+```
 pip install termcolor
+```
+```
 python main.py
-
 ```
